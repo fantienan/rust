@@ -1,0 +1,8 @@
+[workspace]
+members = [
+    "spawn_",
+    "move_",
+    "message_passing",
+    "shared_status",
+    "send_sync"
+]

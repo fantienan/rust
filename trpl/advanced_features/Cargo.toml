@@ -1,0 +1,8 @@
+[workspace]
+members = [
+    "not_safe",
+    "advance_trait",
+    "_macros",
+    "hello_macro",
+    "hello_macro_dreive"
+]
